@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>scene1.jpg</file>
+        <file>scene2.jpg</file>
+        <file>scene3.jpg</file>
+        <file>scene4.jpg</file>
+        <file>face1.png</file>
+        <file>face2.png</file>
+        <file>face-select1.png</file>
+        <file>face-select2.png</file>
+        <file>material1.jpg</file>
+        <file>material2.jpg</file>
+        <file>material3.jpg</file>
+        <file>material4.jpg</file>
+    </qresource>
+</RCC>
